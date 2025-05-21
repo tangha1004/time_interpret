@@ -3,6 +3,9 @@
 This library expands the [captum library](https://captum.ai) with a specific 
 focus on time series. For more details, please see the documentation and our [paper](https://arxiv.org/abs/2306.02968).
 
+# Other papers
+
+[Explaining Time Series Predictions with Dynamic Masks](https://proceedings.mlr.press/v139/crabbe21a/crabbe21a.pdf)
 
 ## Install
 
